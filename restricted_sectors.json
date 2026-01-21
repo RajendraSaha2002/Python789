@@ -1,0 +1,20 @@
+[
+    {
+        "start": 80,
+        "end": 100,
+        "name": "CITY GENERAL HOSPITAL",
+        "type": "CRITICAL"
+    },
+    {
+        "start": 200,
+        "end": 240,
+        "name": "INTL AIRPORT APCH",
+        "type": "AVIATION"
+    },
+    {
+        "start": 350,
+        "end": 10,
+        "name": "FRIENDLY COMMS TOWER",
+        "type": "BLUE_FORCE"
+    }
+]
