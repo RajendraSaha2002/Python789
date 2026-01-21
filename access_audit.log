@@ -1,0 +1,5 @@
+[2025-12-25 19:16:36] [LOGIN_SUCCESS] Agent:J-117 | Agent authenticated successfully.
+[2025-12-25 19:16:43] [ACCESS_GRANTED] Agent:J-117 | Opened document: Base_Cafeteria_Menu.pdf
+[2025-12-25 19:17:01] [LOGOUT] Agent:J-117 | Agent logged out.
+[2025-12-25 19:17:42] [LOGIN_SUCCESS] Agent:M-007 | Agent authenticated successfully.
+[2025-12-25 19:17:55] [LOGOUT] Agent:M-007 | Agent logged out.

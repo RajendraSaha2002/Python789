@@ -1,0 +1,27 @@
+{
+    "aircraft": {
+        "name": "F-16C Fighting Falcon",
+        "empty_weight_kg": 9207,
+        "max_takeoff_weight_kg": 19187
+    },
+    "hardpoints": [
+        {"id": "ST-1", "x": 120, "y": 380, "allowed": ["AAM-Light"], "limit_kg": 200, "desc": "Left Wingtip"},
+        {"id": "ST-2", "x": 200, "y": 420, "allowed": ["AAM-Light", "AAM-Med"], "limit_kg": 300, "desc": "Left Outer"},
+        {"id": "ST-3", "x": 280, "y": 450, "allowed": ["AAM-Med", "AGM", "Bomb", "Fuel"], "limit_kg": 1500, "desc": "Left Mid"},
+        {"id": "ST-4", "x": 340, "y": 480, "allowed": ["Bomb", "Fuel", "Pod", "AGM"], "limit_kg": 2000, "desc": "Left Inner"},
+        {"id": "ST-5", "x": 400, "y": 550, "allowed": ["Fuel", "Pod", "Bomb"], "limit_kg": 1200, "desc": "Centerline"},
+        {"id": "ST-6", "x": 460, "y": 480, "allowed": ["Bomb", "Fuel", "Pod", "AGM"], "limit_kg": 2000, "desc": "Right Inner"},
+        {"id": "ST-7", "x": 520, "y": 450, "allowed": ["AAM-Med", "AGM", "Bomb", "Fuel"], "limit_kg": 1500, "desc": "Right Mid"},
+        {"id": "ST-8", "x": 600, "y": 420, "allowed": ["AAM-Light", "AAM-Med"], "limit_kg": 300, "desc": "Right Outer"},
+        {"id": "ST-9", "x": 680, "y": 380, "allowed": ["AAM-Light"], "limit_kg": 200, "desc": "Right Wingtip"}
+    ],
+    "armory": {
+        "AIM-9X":   {"type": "AAM-Light", "weight": 85,  "role": "AA", "name": "Sidewinder"},
+        "AIM-120C": {"type": "AAM-Med",   "weight": 152, "role": "AA", "name": "AMRAAM"},
+        "AGM-65":   {"type": "AGM",       "weight": 300, "role": "AG", "name": "Maverick"},
+        "GBU-12":   {"type": "Bomb",      "weight": 275, "role": "AG", "name": "Laser Bomb"},
+        "Mk-84":    {"type": "Bomb",      "weight": 900, "role": "AG", "name": "2000lb LDGP"},
+        "Fuel-370": {"type": "Fuel",      "weight": 1200,"role": "XX", "name": "Drop Tank"},
+        "ALQ-184":  {"type": "Pod",       "weight": 215, "role": "XX", "name": "ECM Pod"}
+    }
+}

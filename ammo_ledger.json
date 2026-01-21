@@ -1,0 +1,20 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1766668597.977023,
+        "shell_id": "GENESIS",
+        "status": "System Init",
+        "location": "Root",
+        "previous_hash": "0",
+        "hash": "15a7f4b261f671588bc94e06f35a11bc47e006aaccc3e02349b5a113aa07b426"
+    },
+    {
+        "index": 1,
+        "timestamp": 1766668690.415474,
+        "shell_id": "SHELL-102",
+        "status": "Factory B, Truck 105, Central Base",
+        "location": "Karachi",
+        "previous_hash": "15a7f4b261f671588bc94e06f35a11bc47e006aaccc3e02349b5a113aa07b426",
+        "hash": "98f3443f5653718a819f22b0aa024d021f8a3e3fcad08607cfa59325c3219bdc"
+    }
+]
