@@ -1,0 +1,14 @@
+[
+    {
+        "time": 100.0,
+        "type": "F-16 Fighter",
+        "azimuth": 0,
+        "range": 100.0
+    },
+    {
+        "time": 150.0,
+        "type": "Cruise Missile",
+        "azimuth": 270,
+        "range": 100.0
+    }
+]
